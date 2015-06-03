@@ -1,12 +1,12 @@
 ## Laravel Resque
 
-This package allows you to connect to Resque when using `Queue`. 
+This package allows you to connect to Resque when using `Queue`. *Updated for Laravel 4.2*
 
 ## Requirements
 
-- PHP 5.4+
-- Illuminate\Config 4.1+
-- Illuminate\Queue 4.1+
+- PHP 5.5
+- Illuminate\Config 4.2
+- Illuminate\Queue 4.2
 - Resque 1.2
 - ResqueScheduler 1.1 (Optional)
 
