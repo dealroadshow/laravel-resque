@@ -22,7 +22,7 @@
 	"autoload": {
 		"psr-0": {
 			"Awellis13\\Resque": "src/"
-		}
+		},
 		"psr-4": {
 			"Awellis13\\Resque\\": "src/Awellis13/Resque/"
 		}
